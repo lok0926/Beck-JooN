@@ -1,2 +1,2 @@
-# cnu_python_basic
-인공지능 기초와 활용 파이썬 기본 코드
+# BAEK_JOON
+백준 코드방
